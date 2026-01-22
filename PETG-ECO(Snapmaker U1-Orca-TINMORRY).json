@@ -1,0 +1,31 @@
+{
+    "chamber_temperature": [
+        "35"
+    ],
+    "fan_max_speed": [
+        "90"
+    ],
+    "fan_min_speed": [
+        "40"
+    ],
+    "filament_settings_id": [
+        "PETG-ECO(Snapmaker U1-Orca-TINMORRY)"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "80"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "80"
+    ],
+    "inherits": "Snapmaker PETG @U1",
+    "is_custom_defined": "0",
+    "name": "PETG-ECO(Snapmaker U1-Orca-TINMORRY)",
+    "nozzle_temperature": [
+        "250"
+    ],
+    "pressure_advance": [
+        "0.035"
+    ],
+    "version": "2.3.1.10"
+}

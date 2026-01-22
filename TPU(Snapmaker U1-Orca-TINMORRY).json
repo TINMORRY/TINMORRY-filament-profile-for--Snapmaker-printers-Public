@@ -1,0 +1,31 @@
+{
+    "fan_max_speed": [
+        "100"
+    ],
+    "fan_min_speed": [
+        "100"
+    ],
+    "filament_flow_ratio": [
+        "0.97"
+    ],
+    "filament_settings_id": [
+        " TPU(Snapmaker U1-Orca-TINMORRY)"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "45"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "45"
+    ],
+    "inherits": "Snapmaker TPU 95A @U1",
+    "is_custom_defined": "0",
+    "name": " TPU(Snapmaker U1-Orca-TINMORRY)",
+    "nozzle_temperature": [
+        "220"
+    ],
+    "version": "2.3.1.10"
+}
